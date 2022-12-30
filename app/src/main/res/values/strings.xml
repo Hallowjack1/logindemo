@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">logindemo</string>
+    <string name="login" />
+    <string name="enter_password" />
+    <string name="enter_email_address" />
+    <string name="loginlogo" />
+    <string name="register" />
+    <string name="enter_first_name" />
+    <string name="enter_last_name" />
+</resources>
